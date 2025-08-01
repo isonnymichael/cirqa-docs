@@ -1,0 +1,38 @@
+{
+  "name": "cirqa-docs",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"./assets/images/logo.svg\" alt=\"Cirqa Logo\" width=\"300\" class=\"cirqa-logo\">   <p><em>Decentralized Borrowing and Lending Protocol</em></p> </div>",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-fontsettings": "^2.0.0",
+    "gitbook-plugin-heading-anchors": "^1.0.3",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-favicon": "^0.0.2",
+    "gitbook-plugin-livereload": "^0.0.1",
+    "gitbook-plugin-highlight": "^2.0.3",
+    "gitbook-plugin-lunr": "^1.2.0",
+    "gitbook-plugin-search": "^2.2.1",
+    "gitbook-plugin-sharing": "^1.0.2",
+    "gitbook-plugin-theme-default": "^1.0.7"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "build": "gitbook install && gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isonnymichael/cirqa-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isonnymichael/cirqa-docs/issues"
+  },
+  "homepage": "https://github.com/isonnymichael/cirqa-docs#readme"
+}
