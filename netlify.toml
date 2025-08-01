@@ -1,0 +1,3 @@
+[build]
+  command = "gitbook install && gitbook build"
+  publish = "_book"
