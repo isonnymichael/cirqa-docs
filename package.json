@@ -5,21 +5,20 @@
   "main": "index.js",
   "dependencies": {
     "gitbook-plugin-anchors": "^0.7.1",
-    "gitbook-plugin-expandable-chapters": "^0.2.0",
     "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-copy-code-button": "0.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-favicon": "^0.0.2",
     "gitbook-plugin-fontsettings": "^2.0.0",
     "gitbook-plugin-heading-anchors": "^1.0.3",
-    "gitbook-plugin-copy-code-button": "^0.0.2",
-    "gitbook-plugin-favicon": "^0.0.2",
-    "gitbook-plugin-livereload": "^0.0.1",
     "gitbook-plugin-highlight": "^2.0.3",
+    "gitbook-plugin-livereload": "^0.0.1",
     "gitbook-plugin-lunr": "^1.2.0",
     "gitbook-plugin-search": "^2.2.1",
-    "gitbook-plugin-sharing": "^1.0.2",
-    "gitbook-plugin-theme-default": "^1.0.7"
+    "gitbook-plugin-sharing": "^1.0.2"
   },
   "devDependencies": {
-    "gitbook-cli": "2.1.2"
+    "gitbook-cli": "3.2.3"
   },
   "scripts": {
     "build": "npx gitbook install && npx gitbook build"

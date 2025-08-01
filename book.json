@@ -18,8 +18,7 @@
     "favicon",
     "heading-anchors",
     "copy-code-button",
-    "expandable-chapters",
-    "back-to-top-button"
+    "expandable-chapters"
   ],
   "pluginsConfig": {
     "theme-default": {
