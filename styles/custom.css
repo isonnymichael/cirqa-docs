@@ -1,0 +1,216 @@
+/* Custom styles for Cirqa GitBook */
+
+/* Custom header with logo */
+.book-header {
+  position: relative;
+  overflow: visible;
+}
+
+.book-header::before {
+  content: '';
+  background-image: url('../assets/images/logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 120px;
+  height: 40px;
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+}
+
+/* Custom footer */
+.page-inner::after {
+  content: '© ' + new Date().getFullYear() + ' Cirqa Protocol. All rights reserved.';
+  display: block;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid #eaecef;
+  color: #6c757d;
+  font-size: 0.9em;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3498db;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2980b9;
+}
+
+/* Custom code blocks */
+.markdown-section pre {
+  border-left: 4px solid #3498db;
+}
+
+/* Custom blockquotes */
+.markdown-section blockquote {
+  border-left-color: #3498db;
+  background-color: rgba(52, 152, 219, 0.05);
+  padding: 15px 15px 15px 30px;
+  border-radius: 0 5px 5px 0;
+}
+
+/* Custom tables */
+.markdown-section table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.markdown-section table th {
+  background-color: #2c3e50;
+  color: white;
+  font-weight: 600;
+  padding: 12px;
+}
+
+.markdown-section table tr:nth-child(odd) {
+  background-color: #f8f9fa;
+}
+
+.markdown-section table tr:nth-child(even) {
+  background-color: #ffffff;
+}
+
+.markdown-section table td {
+  padding: 10px 12px;
+}
+
+/* Custom links */
+.markdown-section a {
+  position: relative;
+  text-decoration: none;
+  color: #3498db;
+  font-weight: 500;
+}
+
+.markdown-section a:hover {
+  color: #2980b9;
+}
+
+.markdown-section a:not(.cirqa-button)::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #3498db;
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease-out;
+}
+
+.markdown-section a:not(.cirqa-button):hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+/* Custom buttons */
+.cirqa-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-weight: 500;
+  margin: 10px 5px 10px 0;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cirqa-button:hover {
+  background-color: #2980b9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.cirqa-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Custom highlights */
+.cirqa-highlight {
+  background-color: #e6f7ff;
+  border-left: 4px solid #3498db;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.cirqa-note {
+  background-color: #fffbe6;
+  border-left: 4px solid #faad14;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.cirqa-warning {
+  background-color: #fff2f0;
+  border-left: 4px solid #ff4d4f;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Custom logo */
+.cirqa-logo {
+  display: block;
+  margin: 20px auto;
+  max-width: 200px;
+}
+
+/* Hide "Published with GitBook" */
+.powered-by,
+.gitbook-link,
+.gitbook-logo,
+.gitbook-powered,
+.gitbook-footer,
+div[data-element="gitbook-link"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .book-header::before {
+    width: 100px;
+    height: 30px;
+  }
+  
+  .cirqa-button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    text-align: center;
+  }
+}

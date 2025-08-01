@@ -1,0 +1,12 @@
+_book/
+node_modules/
+.gitbook/
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/

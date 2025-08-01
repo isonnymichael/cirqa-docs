@@ -1,0 +1,48 @@
+{
+  "title": "Cirqa Documentation",
+  "description": "Documentation for the Cirqa decentralized borrowing and lending protocol",
+  "author": "Cirqa Team",
+  "language": "en",
+  "styles": {
+    "website": "styles/website.css",
+    "custom": "styles/custom.css"
+  },
+  "plugins": [
+    "theme-default",
+    "fontsettings",
+    "search",
+    "lunr",
+    "highlight",
+    "-sharing",
+    "livereload",
+    "favicon",
+    "heading-anchors",
+    "copy-code-button",
+    "expandable-chapters",
+    "back-to-top-button"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": true,
+      "styles": {
+        "website": "styles/website.css"
+      }
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 2
+    },
+    "favicon": {
+      "shortcut": "assets/images/favicon.svg",
+      "bookmark": "assets/images/favicon.svg"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "linkedin": true,
+      "weibo": false,
+      "all": ["facebook", "twitter", "linkedin"]
+    }
+  }
+}

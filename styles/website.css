@@ -1,0 +1,281 @@
+/* Global Styles */
+body {
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header Styles */
+.book-header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.book-header h1 {
+  font-weight: 600;
+}
+
+.book-header .btn {
+  color: white;
+}
+
+/* Sidebar Styles */
+.book-summary {
+  background-color: #f8f9fa;
+  border-right: 1px solid #e9ecef;
+}
+
+.book-summary ul.summary li a {
+  padding: 10px 15px;
+  color: #495057;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.book-summary ul.summary li.active > a {
+  color: #0366d6;
+  background-color: #e6f0ff;
+  border-left: 4px solid #0366d6;
+  padding-left: 11px;
+}
+
+.book-summary ul.summary li a:hover {
+  background-color: #e9ecef;
+  text-decoration: none;
+}
+
+/* Chapter Divider */
+.book-summary ul.summary li.divider {
+  height: 1px;
+  margin: 8px 15px;
+  background-color: #dee2e6;
+}
+
+/* Content Styles */
+.page-inner {
+  max-width: 900px;
+  padding: 20px 30px;
+}
+
+.markdown-section {
+  padding: 20px 0;
+}
+
+.markdown-section h1, 
+.markdown-section h2, 
+.markdown-section h3, 
+.markdown-section h4, 
+.markdown-section h5, 
+.markdown-section h6 {
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.markdown-section h1 {
+  font-size: 2.2em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+.markdown-section h2 {
+  font-size: 1.8em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+.markdown-section h3 {
+  font-size: 1.5em;
+}
+
+.markdown-section p {
+  margin: 1em 0;
+}
+
+.markdown-section code {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  padding: 0.2em 0.4em;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.9em;
+}
+
+.markdown-section pre {
+  background-color: #f6f8fa;
+  border-radius: 5px;
+  padding: 16px;
+  overflow: auto;
+  line-height: 1.45;
+}
+
+.markdown-section pre > code {
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.9em;
+}
+
+/* Links */
+.markdown-section a {
+  color: #0366d6;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.markdown-section a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+/* Tables */
+.markdown-section table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+  display: block;
+  overflow-x: auto;
+}
+
+.markdown-section table th,
+.markdown-section table td {
+  border: 1px solid #dfe2e5;
+  padding: 8px 12px;
+}
+
+.markdown-section table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.markdown-section table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.markdown-section table th {
+  padding: 10px 12px;
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+/* Blockquotes */
+.markdown-section blockquote {
+  border-left: 4px solid #0366d6;
+  padding: 0 15px;
+  color: #6a737d;
+  margin: 1em 0;
+}
+
+/* Lists */
+.markdown-section ul,
+.markdown-section ol {
+  padding-left: 2em;
+  margin: 1em 0;
+}
+
+.markdown-section ul li,
+.markdown-section ol li {
+  margin-bottom: 0.5em;
+}
+
+/* Horizontal Rule */
+.markdown-section hr {
+  height: 1px;
+  margin: 24px 0;
+  background-color: #e1e4e8;
+  border: 0;
+}
+
+/* Search */
+#book-search-input {
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #e9ecef;
+}
+
+#book-search-input input {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  background-color: white;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#book-search-input input:focus {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+/* Navigation */
+.navigation {
+  color: #0366d6;
+  transition: color 0.2s ease;
+}
+
+.navigation:hover {
+  color: #0056b3;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .page-inner {
+    padding: 15px;
+  }
+  
+  .markdown-section {
+    padding: 15px 0;
+  }
+}
+
+/* Custom styles for Cirqa */
+.cirqa-logo {
+  display: block;
+  margin: 20px auto;
+  max-width: 200px;
+}
+
+.cirqa-highlight {
+  background-color: #e6f7ff;
+  border-left: 4px solid #1890ff;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.cirqa-note {
+  background-color: #fffbe6;
+  border-left: 4px solid #faad14;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.cirqa-warning {
+  background-color: #fff2f0;
+  border-left: 4px solid #ff4d4f;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Button styles */
+.cirqa-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0366d6;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  margin: 10px 0;
+  transition: background-color 0.2s ease;
+}
+
+.cirqa-button:hover {
+  background-color: #0056b3;
+  text-decoration: none;
+  color: white;
+}
