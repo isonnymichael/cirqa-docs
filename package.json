@@ -19,7 +19,7 @@
     "gitbook-plugin-theme-default": "^1.0.7"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "2.1.2"
   },
   "scripts": {
     "build": "gitbook install && gitbook build"
