@@ -22,7 +22,7 @@
     "gitbook-cli": "2.1.2"
   },
   "scripts": {
-    "build": "gitbook install && gitbook build"
+    "build": "npx gitbook install && npx gitbook build"
   },
   "repository": {
     "type": "git",
