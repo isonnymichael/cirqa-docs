@@ -1,5 +1,5 @@
 {
-  "title": "Cirqa Documentation",
+  "title": "Cirqa Protocol Documentation",
   "description": "Documentation for the Cirqa decentralized borrowing and lending protocol",
   "author": "Cirqa Team",
   "language": "en",
@@ -28,7 +28,7 @@
       }
     },
     "fontsettings": {
-      "theme": "white",
+      "theme": "night",
       "family": "sans",
       "size": 2
     },

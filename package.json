@@ -18,7 +18,7 @@
     "gitbook-plugin-sharing": "^1.0.2"
   },
   "devDependencies": {
-    "gitbook-cli": "3.2.3"
+    "gitbook-cli": "^3.2.3"
   },
   "scripts": {
     "build": "npx gitbook install && npx gitbook build"

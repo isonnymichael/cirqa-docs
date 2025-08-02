@@ -28,24 +28,24 @@
   text-align: center;
   margin-top: 50px;
   padding-top: 20px;
-  border-top: 1px solid #eaecef;
-  color: #6c757d;
+  border-top: 1px solid #444;
+  color: #aaa;
   font-size: 0.9em;
 }
 
-/* Custom scrollbar */
+/* Custom scrollbar for dark theme */
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #2d2d2d;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #3498db;
+  background: #6c5ce7;
   border-radius: 10px;
 }
 

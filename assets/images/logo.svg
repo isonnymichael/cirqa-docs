@@ -1,19 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100">
-  <!-- Background Shape -->
-  <rect x="10" y="20" width="80" height="60" rx="10" ry="10" fill="#2c3e50" />
+  <defs>
+    <linearGradient id="cirqaGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9333EA" /> <!-- purple-600 -->
+      <stop offset="50%" stop-color="#8B5CF6" /> <!-- purple-500 -->
+      <stop offset="100%" stop-color="#2563EB" /> <!-- blue-600 -->
+    </linearGradient>
+  </defs>
   
-  <!-- Cirqa Symbol -->
-  <path d="M30 40 L50 30 L70 40 L70 60 L50 70 L30 60 Z" fill="none" stroke="#3498db" stroke-width="3" />
-  <path d="M30 40 L50 50 L70 40" fill="none" stroke="#3498db" stroke-width="3" />
-  <path d="M50 50 L50 70" fill="none" stroke="#3498db" stroke-width="3" />
-  <circle cx="50" cy="30" r="4" fill="#3498db" />
-  <circle cx="30" cy="40" r="4" fill="#3498db" />
-  <circle cx="70" cy="40" r="4" fill="#3498db" />
-  <circle cx="30" cy="60" r="4" fill="#3498db" />
-  <circle cx="70" cy="60" r="4" fill="#3498db" />
-  <circle cx="50" cy="70" r="4" fill="#3498db" />
+  <!-- Cirqa Logo -->
+  <g transform="translate(15, 5) scale(2.5)">
+    <path d="M20 10C14.4772 10 10 14.4772 10 20C10 25.5228 14.4772 30 20 30C25.5228 30 30 25.5228 30 20C30 14.4772 25.5228 10 20 10ZM20 26C16.6863 26 14 23.3137 14 20C14 16.6863 16.6863 14 20 14C23.3137 14 26 16.6863 26 20C26 23.3137 23.3137 26 20 26Z" fill="url(#cirqaGradient)"/>
+  </g>
   
   <!-- Text -->
-  <text x="100" y="60" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#2c3e50">CIRQA</text>
-  <text x="100" y="80" font-family="Arial, sans-serif" font-size="16" fill="#7f8c8d">DeFi Lending Protocol</text>
+  <text x="110" y="60" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff">CIRQA</text>
+  <text x="110" y="80" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">DeFi Lending Protocol</text>
 </svg>
