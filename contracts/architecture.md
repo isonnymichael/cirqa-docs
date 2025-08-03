@@ -101,6 +101,6 @@ The platform is managed by the community through CIRQA token governance:
 
 <div style="text-align: center; margin: 30px 0;">
   <p>Ready to get started with Cirqa? Whether you're a student or investor, join our community today!</p>
-  <a href="https://app.cirqa.io" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-right: 10px;">Launch App</a>
+  <a href="https://cirqa.netlify.app" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-right: 10px;">Launch App</a>
   <a href="../faq.md" style="display: inline-block; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none;">Read FAQ</a>
 </div>

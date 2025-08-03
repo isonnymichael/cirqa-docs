@@ -149,6 +149,6 @@ Tokenomics parameters may be subject to change through governance votes. Always 
 </div>
 
 <div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://app.cirqa.io/stake" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Stake CIRQA</a>
-  <a href="https://app.cirqa.io/governance" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Participate in Governance</a>
+  <a href="https://cirqa.netlify.app/stake" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Stake CIRQA</a>
+  <a href="https://cirqa.netlify.app/governance" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Participate in Governance</a>
 </div>

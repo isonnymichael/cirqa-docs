@@ -16,7 +16,7 @@ The Cirqa scholarship platform operates on the KiiChain blockchain and provides 
 
 ### Web Application
 
-The main way to use Cirqa is through our web application at [app.cirqa.io](https://app.cirqa.io). This provides:
+The main way to use Cirqa is through our web application at [cirqa.netlify.app](https://cirqa.netlify.app). This provides:
 
 - **Student Interface**: Create scholarship requests, upload documents, withdraw funds
 - **Investor Interface**: Browse scholarships, fund students, track rewards
@@ -128,6 +128,6 @@ If you need help using the Cirqa platform or have questions:
 - **Email Support**: [support@cirqa.io](mailto:support@cirqa.io) for technical issues
 
 <div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://app.cirqa.io" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Launch App</a>
+  <a href="https://cirqa.netlify.app" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Launch App</a>
   <a href="./faq.md" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Read FAQ</a>
 </div>

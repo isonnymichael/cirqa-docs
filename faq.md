@@ -38,7 +38,7 @@
     <h4 style="color: #3498db;">How do I create a scholarship request?</h4>
     <p>To create a scholarship:</p>
     <ol>
-      <li>Visit <a href="https://app.cirqa.io">app.cirqa.io</a> and connect your Web3 wallet</li>
+      <li>Visit <a href="https://cirqa.netlify.app">cirqa.netlify.app</a> and connect your Web3 wallet</li>
       <li>Click "Create Scholarship" and fill out your profile information</li>
       <li>Upload supporting documents (photos, transcripts, personal statement)</li>
       <li>Submit your request to mint your scholarship NFT</li>
@@ -72,7 +72,7 @@
     <h4 style="color: #3498db;">How do I start funding scholarships?</h4>
     <p>To begin investing in education:</p>
     <ol>
-      <li>Connect your wallet to <a href="https://app.cirqa.io">app.cirqa.io</a></li>
+      <li>Connect your wallet to <a href="https://cirqa.netlify.app">cirqa.netlify.app</a></li>
       <li>Get USDT tokens on KiiChain for funding</li>
       <li>Browse scholarship requests and review student profiles</li>
       <li>Fund scholarships that inspire you</li>

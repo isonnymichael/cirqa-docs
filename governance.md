@@ -104,11 +104,11 @@ Cirqa governance includes several security measures:
 
 1. **Acquire CIRQA Tokens**: Purchase tokens on supported exchanges or earn them through protocol participation
 2. **Join the Community**: Participate in discussions on the [Forum](https://community.cirqa.io) and [Discord](https://discord.gg/cirqa)
-3. **Vote on Proposals**: Connect your wallet to the [Governance Portal](https://app.cirqa.io/governance) to vote
+3. **Vote on Proposals**: Connect your wallet to the [Governance Portal](https://cirqa.netlify.app/governance) to vote
 4. **Create Proposals**: Develop and submit your own proposals if you meet the token threshold
 5. **Delegate Your Votes**: If you prefer not to vote directly, delegate your voting power
 
 <div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://app.cirqa.io/governance" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Governance Portal</a>
+  <a href="https://cirqa.netlify.app/governance" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Governance Portal</a>
   <a href="https://community.cirqa.io" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Join Discussion</a>
 </div>

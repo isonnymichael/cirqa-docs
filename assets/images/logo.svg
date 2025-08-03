@@ -13,6 +13,5 @@
   </g>
   
   <!-- Text -->
-  <text x="110" y="60" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff">CIRQA</text>
-  <text x="110" y="80" font-family="Arial, sans-serif" font-size="16" fill="#ffffff">DeFi Lending Protocol</text>
+  <text x="110" y="70" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff">CIRQA</text>
 </svg>

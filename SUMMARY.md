@@ -17,5 +17,5 @@
 * [Community](community.md)
 * [FAQ](faq.md)
 * [Glossary](glossary.md)
-* [GitHub Repository](https://github.com/cirqa/cirqa)
+* [GitHub Repository](https://github.com/isonnymichael/cirqa)
 * [Discord Community](https://discord.gg/cirqa)
