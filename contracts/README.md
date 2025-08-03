@@ -1,22 +1,22 @@
 # Cirqa Smart Contracts
 
 <div align="center">
-  <img src="../assets/images/icons/collateral.svg" alt="Collateral Icon" width="80" height="80">
-  <p><em>Secure, Audited Smart Contracts Powering the Cirqa Protocol</em></p>
+  <img src="../assets/images/icons/collateral.svg" alt="Scholarship Icon" width="80" height="80">
+  <p><em>Secure, Audited Smart Contracts Powering the Cirqa Scholarship Platform</em></p>
 </div>
 
 ## Overview
 
-This section covers the smart contracts that power the Cirqa protocol. The Cirqa protocol is built on a set of carefully designed and audited smart contracts that enable secure borrowing and lending functionality on the KiiChain blockchain.
+This section covers the smart contracts that power the Cirqa scholarship funding platform. The Cirqa protocol is built on a set of carefully designed smart contracts that enable secure scholarship creation, funding, and management on the KiiChain blockchain.
 
 <div class="cirqa-highlight">
   <h3>Key Contract Components</h3>
   <ul>
-    <li><strong>CirqaCore</strong> - The main contract that coordinates lending and borrowing operations</li>
-    <li><strong>CirqaOracle</strong> - Provides price feeds for assets in the protocol</li>
-    <li><strong>CirqaInterestModel</strong> - Calculates interest rates based on utilization</li>
-    <li><strong>CirqaToken</strong> - The governance and reward token of the protocol</li>
-    <li><strong>CirqaGovernance</strong> - Handles protocol governance and voting</li>
+    <li><strong>Core</strong> - The main contract that coordinates scholarship creation, funding, and NFT management</li>
+    <li><strong>ScholarshipManager</strong> - Manages scholarship data, withdrawals, and student information</li>
+    <li><strong>ScoreManager</strong> - Handles scholarship scoring and rating system</li>
+    <li><strong>CirqaToken</strong> - The reward token given to investors for funding scholarships</li>
+    <li><strong>USDT Interface</strong> - Handles USDT payments for scholarship funding</li>
   </ul>
 </div>
 
@@ -39,25 +39,19 @@ All Cirqa smart contracts undergo rigorous security measures:
   </div>
 </div>
 
-## Contract Addresses
+## Platform Status
 
-| Contract | Address | Network |
-|----------|---------|--------|
-| CirqaCore | `0x1234...5678` | KiiChain Mainnet |
-| CirqaOracle | `0xabcd...ef01` | KiiChain Mainnet |
-| CirqaInterestModel | `0x2345...6789` | KiiChain Mainnet |
-| CirqaToken | `0x3456...789a` | KiiChain Mainnet |
-| CirqaGovernance | `0x4567...89ab` | KiiChain Mainnet |
+The Cirqa scholarship platform is currently in development on KiiChain testnet. Contract addresses will be published upon mainnet deployment.
 
-## Developer Resources
+## Learn More
 
 <div class="cirqa-note">
-  <h3>Getting Started with Cirqa Contracts</h3>
-  <p>Explore our contract architecture, interfaces, and integration guides to build on top of Cirqa.</p>
-  <a href="./architecture.md" class="cirqa-button">View Architecture</a>
-  <a href="https://github.com/cirqa/contracts" class="cirqa-button">GitHub Repository</a>
+  <h3>Platform Information</h3>
+  <p>Learn more about how the Cirqa scholarship platform works and its key features.</p>
+  <a href="./architecture.md" class="cirqa-button">How It Works</a>
+  <a href="https://github.com/cirqa/cirqa" class="cirqa-button">Source Code</a>
 </div>
 
 ---
 
-For detailed technical specifications, see the [Architecture](./architecture.md) section.
+For more information about the platform, see the [Platform Overview](./architecture.md) section.

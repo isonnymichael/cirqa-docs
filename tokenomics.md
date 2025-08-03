@@ -6,7 +6,7 @@
 
 <div class="cirqa-highlight">
 
-The CIRQA token is the governance and utility token of the Cirqa protocol. This document outlines the token's economic model, including its supply, distribution, utility, and value accrual mechanisms. The tokenomics are designed to align incentives between users, liquidity providers, and governance participants.
+The CIRQA token is the governance and reward token of the Cirqa scholarship platform. This document outlines the token's economic model, including its supply, distribution, utility, and value accrual mechanisms. The tokenomics are designed to align incentives between students, investors, and community participants who support educational funding.
 
 </div>
 
@@ -14,7 +14,7 @@ The CIRQA token is the governance and utility token of the Cirqa protocol. This 
 
 - **Name**: Cirqa Token
 - **Symbol**: CIRQA
-- **Total Supply**: 1,000,000,000 CIRQA
+- **Total Supply**: 10,000,000,000 CIRQA
 - **Token Type**: ERC-20 on KiiChain
 - **Decimals**: 18
 
@@ -22,14 +22,15 @@ The CIRQA token is the governance and utility token of the Cirqa protocol. This 
 
 The initial distribution of CIRQA tokens is designed to ensure fair allocation across various stakeholders:
 
-| Allocation | Percentage | Amount | Vesting |
-|------------|------------|--------|--------|
-| Community Treasury | 30% | 300,000,000 | Controlled by governance |
-| Protocol Incentives | 25% | 250,000,000 | Released over 4 years |
-| Team & Advisors | 20% | 200,000,000 | 1-year cliff, 3-year vesting |
-| Investors | 15% | 150,000,000 | 6-month cliff, 2-year vesting |
-| Initial Liquidity | 5% | 50,000,000 | Unlocked at launch |
-| Ecosystem Development | 5% | 50,000,000 | Released over 2 years |
+| Allocation | Percentage | Amount | Purpose |
+|------------|------------|--------|---------|
+| Scholarship Funding Rewards | 40% | 4,000,000,000 | Rewards for investors who fund scholarships |
+| Community Treasury | 25% | 2,500,000,000 | Controlled by governance |
+| Team & Advisors | 15% | 1,500,000,000 | 1-year cliff, 3-year vesting |
+| Investors | 10% | 1,000,000,000 | 6-month cliff, 2-year vesting |
+| Community Incentives | 5% | 500,000,000 | Rating participation and engagement |
+| Initial Liquidity | 3% | 300,000,000 | Unlocked at launch |
+| Ecosystem Development | 2% | 200,000,000 | Released over 2 years |
 
 <div class="cirqa-note">
 
@@ -49,27 +50,27 @@ The CIRQA token serves multiple functions within the ecosystem:
 
 ### Economic Incentives
 
-- **Liquidity Mining**: Earn CIRQA by providing liquidity to supported markets
-- **Borrowing Incentives**: Earn CIRQA by borrowing specific assets
-- **Staking Rewards**: Stake CIRQA to earn a share of protocol fees
+- **Scholarship Funding Rewards**: Earn CIRQA by funding student scholarships with USDT
+- **Rating Participation**: Earn CIRQA by participating in the community rating system
+- **Staking Rewards**: Stake CIRQA to earn a share of protocol fees from scholarship funding
 
 ### Protocol Utility
 
-- **Fee Discounts**: Stake CIRQA to receive discounts on borrowing and liquidation fees
-- **Collateral Boosts**: Staked CIRQA may provide collateral factor boosts for other assets
-- **Priority Liquidation Protection**: CIRQA stakers receive priority in liquidation protection mechanisms
+- **Rating Power**: Hold CIRQA to participate in scholarship rating and scoring
+- **Governance Rights**: Vote on scholarship platform parameters and treasury allocation
+- **Premium Features**: Access to advanced scholarship filtering and analytics
 
 ## Value Accrual Mechanisms
 
-CIRQA's value is designed to grow with protocol usage through several mechanisms:
+CIRQA's value is designed to grow with scholarship platform usage through several mechanisms:
 
 ### Fee Sharing
 
 A portion of protocol fees is directed to CIRQA stakers:
 
-- **Origination Fees**: One-time fees charged when borrowing assets
-- **Interest Spread**: A percentage of the interest paid by borrowers
-- **Liquidation Fees**: A percentage of liquidation penalties
+- **Scholarship Funding Fees**: Protocol fees collected from scholarship funding transactions (default 1%)
+- **Platform Utility**: Fees from premium features and advanced scholarship analytics
+- **Rating Incentives**: A portion of fees used to reward active community raters
 
 ### Supply Dynamics
 
@@ -91,30 +92,31 @@ Staking CIRQA provides several benefits:
 
 | Tier | CIRQA Required | Benefits |
 |------|----------------|----------|
-| Bronze | 1,000 CIRQA | 5% fee discount, basic governance rights |
-| Silver | 10,000 CIRQA | 10% fee discount, enhanced governance weight |
-| Gold | 100,000 CIRQA | 20% fee discount, premium governance weight, collateral boost |
-| Platinum | 1,000,000 CIRQA | 30% fee discount, maximum governance weight, maximum collateral boost |
+| Bronze | 1,000 CIRQA | Basic rating power, standard governance rights |
+| Silver | 10,000 CIRQA | Enhanced rating weight, access to scholarship analytics |
+| Gold | 100,000 CIRQA | Premium governance weight, early access to new features |
+| Platinum | 1,000,000 CIRQA | Maximum governance weight, exclusive platform features |
 
 ## Emission Schedule
 
-CIRQA tokens are released according to a predetermined schedule:
+CIRQA tokens are distributed as rewards based on scholarship funding activity:
 
-- **Year 1**: 40% of protocol incentives (100,000,000 CIRQA)
-- **Year 2**: 30% of protocol incentives (75,000,000 CIRQA)
-- **Year 3**: 20% of protocol incentives (50,000,000 CIRQA)
-- **Year 4**: 10% of protocol incentives (25,000,000 CIRQA)
+- **Funding Rewards**: 1 CIRQA per 1 USDT invested in scholarships (configurable by governance)
+- **Rating Rewards**: Additional CIRQA for active participation in scholarship rating
+- **Dynamic Distribution**: Emission rates adjust based on platform usage and governance decisions
+- **Sustainable Model**: Long-term distribution designed to incentivize continued platform growth
 
-Emission rates can be adjusted through governance proposals based on market conditions and protocol growth.
+The reward rate and emission parameters can be adjusted through governance proposals to maintain platform sustainability and growth.
 
 ## Treasury Management
 
 The Community Treasury is a critical component of Cirqa's long-term sustainability:
 
-- **Ecosystem Grants**: Funding for projects building on or integrating with Cirqa
-- **Liquidity Incentives**: Strategic incentives for key markets
-- **Protocol Insurance**: Reserves for potential shortfalls or emergencies
-- **Marketing and Growth**: Resources for expanding the Cirqa ecosystem
+- **Educational Initiatives**: Funding for educational programs and scholarship expansion
+- **Platform Development**: Resources for new features and improvements
+- **Community Incentives**: Additional rewards for high-quality scholarship applications and ratings
+- **Marketing and Growth**: Resources for expanding the scholarship platform globally
+- **Emergency Fund**: Reserves for platform security and student protection
 
 All treasury expenditures are decided through governance votes by CIRQA token holders.
 
@@ -134,10 +136,11 @@ For more details on governance, see the [Governance](governance.md) documentatio
 
 Cirqa's tokenomics are designed for long-term sustainability:
 
-- **Decreasing Emissions**: Gradually decreasing token emissions
-- **Fee Generation**: Growing fee revenue as protocol usage increases
-- **Value Capture**: Multiple mechanisms to capture value for token holders
-- **Governance Adaptability**: Ability to adjust parameters as market conditions change
+- **Usage-Based Distribution**: Token rewards tied directly to scholarship funding activity
+- **Fee Generation**: Growing fee revenue as more scholarships are funded
+- **Educational Impact**: Value creation through real-world educational funding
+- **Community Growth**: Self-sustaining ecosystem incentivizing quality participation
+- **Governance Adaptability**: Ability to adjust parameters as the platform grows
 
 <div class="cirqa-warning">
 
