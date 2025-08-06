@@ -1,7 +1,7 @@
 # Cirqa Project Overview
 
 <div align="center">
-  <img src="./assets/images/logo.svg" alt="Cirqa Logo" width="300" class="cirqa-logo">
+  <img src="./assets/images/logo.svg" width="300" class="cirqa-logo">
 </div>
 
 ## What is Cirqa?
@@ -65,22 +65,18 @@ The protocol is designed to:
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 5px; margin-bottom: 20px;">
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div style="flex-basis: 45%; min-width: 250px; margin-bottom: 15px;">
-      <div style="background-color: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">1</div>
       <h3>🎓 Students Create Scholarships</h3>
       <p>Students connect their wallet and create scholarship requests with detailed profiles, photos, and supporting documents stored on IPFS.</p>
     </div>
     <div style="flex-basis: 45%; min-width: 250px; margin-bottom: 15px;">
-      <div style="background-color: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">2</div>
       <h3>💰 Investors Fund Scholarships</h3>
       <p>Investors browse student profiles and fund scholarships using USDT, receiving CIRQA token rewards for their contribution.</p>
     </div>
     <div style="flex-basis: 45%; min-width: 250px; margin-bottom: 15px;">
-      <div style="background-color: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">3</div>
       <h3>🏆 Community Rating System</h3>
       <p>Community members can rate scholarships to build trust and help future funding decisions.</p>
     </div>
     <div style="flex-basis: 45%; min-width: 250px; margin-bottom: 15px;">
-      <div style="background-color: #2c3e50; color: white; border-radius: 50%; width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">4</div>
       <h3>💸 Students Withdraw Funds</h3>
       <p>Students can withdraw their scholarship funds as needed for educational expenses, with full transparency and tracking.</p>
     </div>

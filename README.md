@@ -21,4 +21,4 @@
   </ul>
 </div>
 
-<a href="./PROJECT.md" class="cirqa-button">Learn More</a> <a href="./contracts/architecture.md" class="cirqa-button">Explore Architecture</a>
+<a href="./PROJECT.md" class="cirqa-button">Learn More</a> <a href="./contracts/architecture.md" class="cirqa-button">

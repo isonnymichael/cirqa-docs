@@ -20,39 +20,11 @@ The CIRQA token is the governance and reward token of the Cirqa scholarship plat
 
 ## Token Distribution
 
-The initial distribution of CIRQA tokens is designed to ensure fair allocation across various stakeholders:
-
-| Allocation | Percentage | Amount | Purpose |
-|------------|------------|--------|---------|
-| Scholarship Funding Rewards | 40% | 4,000,000,000 | Rewards for investors who fund scholarships |
-| Community Treasury | 25% | 2,500,000,000 | Controlled by governance |
-| Team & Advisors | 15% | 1,500,000,000 | 1-year cliff, 3-year vesting |
-| Investors | 10% | 1,000,000,000 | 6-month cliff, 2-year vesting |
-| Community Incentives | 5% | 500,000,000 | Rating participation and engagement |
-| Initial Liquidity | 3% | 300,000,000 | Unlocked at launch |
-| Ecosystem Development | 2% | 200,000,000 | Released over 2 years |
-
-<div class="cirqa-note">
-
-The vesting schedules are designed to align long-term incentives and prevent market disruptions from large token unlocks. The Community Treasury is controlled by CIRQA token holders through governance votes.
-
-</div>
+<em>Coming Soon</em>
 
 ## Token Utility
 
 The CIRQA token serves multiple functions within the ecosystem:
-
-### Governance
-
-- **Proposal Power**: Hold CIRQA to create governance proposals
-- **Voting Rights**: Vote on protocol changes, parameter adjustments, and treasury allocations
-- **Delegation**: Delegate voting power to trusted community members
-
-### Economic Incentives
-
-- **Scholarship Funding Rewards**: Earn CIRQA by funding student scholarships with USDT
-- **Rating Participation**: Earn CIRQA by participating in the community rating system
-- **Staking Rewards**: Stake CIRQA to earn a share of protocol fees from scholarship funding
 
 ### Protocol Utility
 
@@ -88,15 +60,6 @@ Staking CIRQA provides several benefits:
 - **Staking Duration**: Longer staking periods provide enhanced rewards
 - **Staking Multipliers**: Active participation in governance increases staking rewards
 
-### Staking Tiers
-
-| Tier | CIRQA Required | Benefits |
-|------|----------------|----------|
-| Bronze | 1,000 CIRQA | Basic rating power, standard governance rights |
-| Silver | 10,000 CIRQA | Enhanced rating weight, access to scholarship analytics |
-| Gold | 100,000 CIRQA | Premium governance weight, early access to new features |
-| Platinum | 1,000,000 CIRQA | Maximum governance weight, exclusive platform features |
-
 ## Emission Schedule
 
 CIRQA tokens are distributed as rewards based on scholarship funding activity:
@@ -120,18 +83,6 @@ The Community Treasury is a critical component of Cirqa's long-term sustainabili
 
 All treasury expenditures are decided through governance votes by CIRQA token holders.
 
-## Token Governance
-
-CIRQA governance follows a structured process:
-
-1. **Discussion**: Ideas are discussed in the community forum
-2. **Temperature Check**: Informal polling to gauge community sentiment
-3. **Formal Proposal**: On-chain proposal creation (requires minimum CIRQA holdings)
-4. **Voting Period**: 7-day voting period for all CIRQA holders
-5. **Implementation**: Successful proposals are implemented after a timelock period
-
-For more details on governance, see the [Governance](governance.md) documentation.
-
 ## Economic Sustainability
 
 Cirqa's tokenomics are designed for long-term sustainability:
@@ -150,5 +101,4 @@ Tokenomics parameters may be subject to change through governance votes. Always 
 
 <div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
   <a href="https://cirqa.netlify.app/stake" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Stake CIRQA</a>
-  <a href="https://cirqa.netlify.app/governance" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Participate in Governance</a>
 </div>
