@@ -20,5 +20,3 @@
     <li>Built-in withdrawal system for students to access their funds</li>
   </ul>
 </div>
-
-<a href="./PROJECT.md" class="cirqa-button">Learn More</a> <a href="./contracts/architecture.md" class="cirqa-button">

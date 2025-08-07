@@ -33,25 +33,8 @@ All Cirqa smart contracts undergo rigorous security measures:
     <h3>🧪 Formal Verification</h3>
     <p>Mathematical proofs of contract correctness</p>
   </div>
-  <div style="background-color: #e6f7ff; padding: 15px; border-radius: 5px;">
-    <h3>💰 Bug Bounty</h3>
-    <p>Ongoing bug bounty program to incentivize security research</p>
-  </div>
 </div>
 
 ## Platform Status
 
 The Cirqa scholarship platform is currently in development on KiiChain testnet. Contract addresses will be published upon mainnet deployment.
-
-## Learn More
-
-<div class="cirqa-note">
-  <h3>Platform Information</h3>
-  <p>Learn more about how the Cirqa scholarship platform works and its key features.</p>
-  <a href="./architecture.md" class="cirqa-button">How It Works</a>
-  <a href="https://github.com/cirqa/cirqa" class="cirqa-button">Source Code</a>
-</div>
-
----
-
-For more information about the platform, see the [Platform Overview](./architecture.md) section.

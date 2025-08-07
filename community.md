@@ -19,28 +19,13 @@ Connect with Cirqa developers, users, and enthusiasts across various platforms:
 - **[Twitter](https://twitter.com/cirqaprotocol)** - Follow us for the latest news and updates
 - **[Community Forum](https://community.cirqa.io)** - Discuss ideas, proposals, and participate in governance
 
-## Governance Participation
-
-<div class="cirqa-note">
-
-As a decentralized protocol, Cirqa is governed by its community through the CIRQA token. Token holders can propose and vote on changes to the protocol, including parameter adjustments, feature additions, and treasury allocations.
-
-</div>
-
-### How to Participate
-
-1. **Hold CIRQA Tokens** - Acquire and hold CIRQA tokens to gain voting rights
-2. **Submit Proposals** - Create Cirqa Improvement Proposals (CIPs) on the governance forum
-3. **Vote on Proposals** - Cast your votes on active proposals through the governance portal
-4. **Join Governance Calls** - Participate in monthly governance calls to discuss protocol developments
-
 ## Contribute to Cirqa
 
 We welcome contributions from developers, designers, writers, and community builders:
 
 ### For Developers
 
-- **[GitHub Repository](https://github.com/cirqa)** - Contribute code, report bugs, and review pull requests
+- **[GitHub Repository](https://github.com/isonn/cirqa)** - Contribute code, report bugs, and review pull requests
 - **Bug Bounty Program** - Earn rewards for identifying security vulnerabilities
 - **Developer Grants** - Apply for funding to build tools and integrations for Cirqa
 
@@ -65,8 +50,3 @@ Stay connected with the Cirqa community through regular events:
 - **[FAQ](faq.md)** - Find answers to frequently asked questions
 - **[Blog](https://blog.cirqa.io)** - Read the latest articles and announcements
 - **[YouTube Channel](https://youtube.com/cirqaprotocol)** - Watch tutorials and recordings of community calls
-
-<div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://discord.gg/cirqa" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Join Discord</a>
-  <a href="https://community.cirqa.io" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Visit Forum</a>
-</div>

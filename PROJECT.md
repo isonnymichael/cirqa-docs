@@ -128,15 +128,5 @@ The protocol is designed to:
 <div class="cirqa-note">
   <h3>Ready to dive in?</h3>
   <p>Visit the Cirqa app, connect your wallet, and start exploring decentralized scholarship funding today!</p>
-  <a href="#" class="cirqa-button">Launch App</a>
-</div>
-
----
-
-<div style="text-align: center; margin-top: 40px;">
-  <p>For more information, see the <a href="./README.md">Introduction</a> and other documentation files in this project.</p>
-  <div style="margin-top: 20px;">
-    <a href="./contracts/README.md" class="cirqa-button">Explore Contracts</a>
-    <a href="./frontend/README.md" class="cirqa-button">Frontend Documentation</a>
-  </div>
+  <a target="_blank" href="https://cirqa.netlify.app/" class="cirqa-button">Launch App</a>
 </div>

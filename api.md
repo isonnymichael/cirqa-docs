@@ -126,8 +126,3 @@ If you need help using the Cirqa platform or have questions:
 - **Community Discord**: [Join our Discord](https://discord.gg/cirqa) for real-time support
 - **Help Center**: Visit our help center for guides and tutorials
 - **Email Support**: [support@cirqa.io](mailto:support@cirqa.io) for technical issues
-
-<div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://cirqa.netlify.app" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Launch App</a>
-  <a href="./faq.md" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Read FAQ</a>
-</div>

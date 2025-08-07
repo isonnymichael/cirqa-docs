@@ -29,8 +29,8 @@ The CIRQA token serves multiple functions within the ecosystem:
 ### Protocol Utility
 
 - **Rating Power**: Hold CIRQA to participate in scholarship rating and scoring
-- **Governance Rights**: Vote on scholarship platform parameters and treasury allocation
-- **Premium Features**: Access to advanced scholarship filtering and analytics
+- **Governance Rights**: <em>Coming Soon</em>
+- **Premium Features**: <em>Coming Soon</em>
 
 ## Value Accrual Mechanisms
 
@@ -51,14 +51,6 @@ CIRQA implements mechanisms to manage token supply:
 - **Buyback and Burn**: A portion of protocol fees is used to buy back and burn CIRQA tokens
 - **Emission Adjustments**: Governance can adjust emission rates based on market conditions
 - **Deflationary Mechanisms**: Certain protocol actions may burn CIRQA tokens
-
-## Staking Mechanics
-
-Staking CIRQA provides several benefits:
-
-- **Staking Tiers**: Different benefits based on amount staked
-- **Staking Duration**: Longer staking periods provide enhanced rewards
-- **Staking Multipliers**: Active participation in governance increases staking rewards
 
 ## Emission Schedule
 
@@ -97,8 +89,4 @@ Cirqa's tokenomics are designed for long-term sustainability:
 
 Tokenomics parameters may be subject to change through governance votes. Always refer to the latest documentation and governance proposals for the most up-to-date information.
 
-</div>
-
-<div class="cta-container" style="display: flex; justify-content: center; gap: 20px; margin-top: 40px;">
-  <a href="https://cirqa.netlify.app/stake" class="cta-button" style="background-color: #6E76E5; color: white; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold;">Stake CIRQA</a>
 </div>

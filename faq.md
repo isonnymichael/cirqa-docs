@@ -182,24 +182,3 @@
     </ul>
   </div>
 </div>
-
-## Support and Community
-
-<div class="cirqa-highlight">
-  <h3>Getting Help</h3>
-  <p>If you have questions or need assistance, there are several ways to get help:</p>
-  <ul>
-    <li><strong>Discord Community</strong>: Join our <a href="https://discord.gg/cirqa">Discord server</a> for real-time support</li>
-    <li><strong>Forum</strong>: Post questions on our <a href="https://community.cirqa.io">Community Forum</a></li>
-    <li><strong>Twitter</strong>: Follow us <a href="https://twitter.com/cirqaprotocol">@cirqaprotocol</a> for updates</li>
-    <li><strong>Email Support</strong>: Contact <a href="mailto:support@cirqa.io">support@cirqa.io</a> for private inquiries</li>
-  </ul>
-</div>
-
----
-
-<div style="text-align: center; margin: 30px 0;">
-  <p>Didn't find what you're looking for? Ask in our community channels!</p>
-  <a href="https://discord.gg/cirqa" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none; margin-right: 10px;">Join Discord</a>
-  <a href="https://community.cirqa.io" style="display: inline-block; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 4px; text-decoration: none;">Visit Forum</a>
-</div>
